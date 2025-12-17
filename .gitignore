@@ -1,2 +1,7 @@
 data/all_reviews.csv
 data/all_reviews_cleaned.csv
+
+# Large / raw data (do not commit)
+data/*.csv
+0_data/*.csv
+*.DS_Store
